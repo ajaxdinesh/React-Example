@@ -7,7 +7,7 @@ export class App extends Component {
     return (
       <div className="App">
         <Header linkName="AMRITHA MAI" />
-        <Home age={3}/>
+        <Home age={30}/>
       </div>
     );
   }
